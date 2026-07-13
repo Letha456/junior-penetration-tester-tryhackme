@@ -4,6 +4,7 @@
 
 So the first lesson I learnt was the introduction to it, which mainly gave a brief explanation about what offensive and defensive security is.
 
+## Offensive Security(Red Team)
 Let me start with offensive security, which mainly talked about how you are basically taking the role of a hacker, and companies hire you to break into their systems and find vulnerabilities or weaknesses within those systems.
 
 The first tool I learnt was dirb, which is basically a brute force tool that you use towards a website in your terminal. It takes a list of potential page names and checks for them one by one and returns the links to those pages.
@@ -19,7 +20,7 @@ The first tool I learnt was dirb, which is basically a brute force tool that you
 
 4. And it should return its findings.
 
-## Defensive Security
+## Defensive Security(Blue team)
 
 This is also known as the blue team. Its main concern is mainly prevention and detection. You are detecting and preventing any threats that your system could face.
 
